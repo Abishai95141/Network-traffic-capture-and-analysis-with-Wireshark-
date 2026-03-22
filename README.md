@@ -44,7 +44,7 @@ Export or Save the Capture • Go to File > Save As to store the capture in .pca
 
 # save and export the capture
 
-![Screenshot 2025-05-02 090531](https://github.com/user-attachments/assets/731f4abb-2246-4fd1-9764-2cbf6874e71e)
+![Screenshot 2025-05-02 090531](https://github.com/user-attachments/assets/731f4abb-2246-4fd1-9764-2cbf6874e71e
 
 ## RESULT:
 Network traffic was successfully captured and analyzed using Wireshark.
